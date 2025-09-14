@@ -7,6 +7,11 @@ using AutoMapper;
 using SistemadeVentas.DTO;
 using SistemadeVentas.Model;
 using System.Globalization;
+<<<<<<< HEAD
+=======
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
+using Microsoft.IdentityModel.Tokens;
+>>>>>>> 87524d8 (Actualizaciones)
 namespace SistemadeVentas.Utility
 {
     public class AutoMapperProfile : Profile
@@ -93,10 +98,15 @@ namespace SistemadeVentas.Utility
 
             #region Venta
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 87524d8 (Actualizaciones)
             CreateMap<Venta, VentaDTO>()
             .ForMember(destino =>
             destino.TotalTexto,
             opt => opt.MapFrom(origen => Convert.ToString(origen.Total.Value, new CultureInfo("es-ECU"))))
+<<<<<<< HEAD
             .ForMember(destino =>
             destino.FechaRegistro,
             opt => opt.MapFrom(origen => origen.FechaRegistro.Value.ToString("dd/MM/yyyy")));
@@ -107,6 +117,27 @@ namespace SistemadeVentas.Utility
             opt => opt.MapFrom(origen => Convert.ToDecimal(origen.TotalTexto, new CultureInfo("es-ECU")))
 
             );
+=======
+
+            .ForMember(destino =>
+            destino.FechaRegistro,
+            opt => opt.MapFrom(origen => origen.FechaRegistro!.Value.ToString("dd/MM/yyyy")));
+
+            CreateMap<VentaDTO, Venta>()
+
+            .ForMember(destino =>
+            destino.Total,
+            opt => opt.MapFrom(origen => Convert.ToDecimal(origen.TotalTexto, new CultureInfo("es-ECU"))))
+            .ForMember(destino => destino.FechaRegistro,
+            opt => opt.MapFrom(origen => origen.FechaRegistro ?? DateTime.Now));
+            /*
+            .ForMember(destino => destino.FechaRegistro,
+            opt => opt.MapFrom(origen =>
+            DateTime.ParseExact(origen.FechaRegistro, "dd/MM/yyyy", CultureInfo.InvariantCulture)));
+            */
+
+
+>>>>>>> 87524d8 (Actualizaciones)
 
             #endregion
 
@@ -131,6 +162,11 @@ namespace SistemadeVentas.Utility
                 destino.Total,
                 opt => opt.MapFrom(origen => Convert.ToDecimal(origen.TotalTexto)));
 
+<<<<<<< HEAD
+=======
+           
+
+>>>>>>> 87524d8 (Actualizaciones)
 
 
             #endregion

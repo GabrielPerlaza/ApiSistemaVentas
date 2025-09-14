@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+>>>>>>> 87524d8 (Actualizaciones)
     <ProjectReference Include="..\SistemadeVentas.BLL\SistemadeVentas.BLL.csproj" />
     <ProjectReference Include="..\SistemadeVentas.DAL\SistemadeVentas.DAL.csproj" />
     <ProjectReference Include="..\SistemadeVentas.Utility\SistemadeVentas.Utility.csproj" />

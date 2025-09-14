@@ -15,3 +15,25 @@ C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\Sistemad
 C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.Model.pdb
 C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.csproj.AssemblyReference.cache
 C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.Utility.deps.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.Utility.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.DTO.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.Model.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.Model.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\Sistemad.0F13092E.Up2Date
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\refint\SistemadeVentas.Utility.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\ref\SistemadeVentas.Utility.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\bin\Debug\net7.0\SistemadeVentas.Utility.runtimeconfig.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Utility\obj\Debug\net7.0\SistemadeVentas.Utility.genruntimeconfig.cache
+>>>>>>> 87524d8 (Actualizaciones)

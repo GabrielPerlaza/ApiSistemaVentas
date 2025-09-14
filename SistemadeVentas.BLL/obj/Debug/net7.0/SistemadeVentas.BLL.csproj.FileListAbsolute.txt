@@ -19,3 +19,29 @@ C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\Sistemad
 C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
 C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.csproj.AssemblyReference.cache
 C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.BLL.deps.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.BLL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.BLL.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.DAL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.DTO.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.Model.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.Utility.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.DAL.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.Model.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\Sistemad.446A1ADE.Up2Date
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\refint\SistemadeVentas.BLL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\ref\SistemadeVentas.BLL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\bin\Debug\net7.0\SistemadeVentas.BLL.runtimeconfig.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.BLL\obj\Debug\net7.0\SistemadeVentas.BLL.genruntimeconfig.cache
+>>>>>>> 87524d8 (Actualizaciones)

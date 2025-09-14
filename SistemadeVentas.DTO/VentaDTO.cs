@@ -17,9 +17,16 @@ namespace SistemadeVentas.DTO
 
         public string? TotalTexto { get; set; }
 
+<<<<<<< HEAD
         public string? FechaRegistro { get; set; }
 
         public virtual ICollection<DetalleVentaDTO> DetalleVenta { get; set; }
+=======
+        public DateTime ? FechaRegistro { get; set; }
+
+
+        public virtual ICollection<DetalleVentaDTO> DetalleVenta { get; set; } = new List<DetalleVentaDTO>();
+>>>>>>> 87524d8 (Actualizaciones)
 
     }
 }

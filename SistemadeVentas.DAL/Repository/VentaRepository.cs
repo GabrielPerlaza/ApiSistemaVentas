@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+=======
+using Microsoft.EntityFrameworkCore;
+>>>>>>> 87524d8 (Actualizaciones)
 using SistemadeVentas.DAL;
 using SistemadeVentas.DAL.Repository.Contratos;
 using SistemadeVentas.Model;
@@ -21,6 +25,7 @@ namespace SistemadeVentas.DAL.Repository
         public async Task<Venta> Registrar(Venta modelo)
         {
             Venta ventaGenerada = new Venta();
+<<<<<<< HEAD
 
             using(var transaction = _dbventasContext.Database.BeginTransaction())
             {
@@ -30,6 +35,24 @@ namespace SistemadeVentas.DAL.Repository
                     {
                         Producto producto_encontrado = _dbventasContext.Productos.Where(p => p.IdProducto == dv.IdProducto).First();
 
+=======
+                
+
+            using (var transaction = _dbventasContext.Database.BeginTransaction())
+            {
+                try
+                {
+
+                    foreach (DetalleVenta dv in modelo.DetalleVenta)
+                    {
+                        Producto producto_encontrado =  _dbventasContext.Productos.Where(p => p.IdProducto == dv.IdProducto).FirstOrDefault();
+                        
+                        if (producto_encontrado == null)
+                        {
+                            throw new Exception($"El producto con id {dv.IdProducto} no existe.");
+                        }
+                            
+>>>>>>> 87524d8 (Actualizaciones)
                         producto_encontrado.Stock = producto_encontrado.Stock - dv.Cantidad;
 
                         _dbventasContext.Productos.Update(producto_encontrado);
@@ -38,13 +61,25 @@ namespace SistemadeVentas.DAL.Repository
 
                     await _dbventasContext.SaveChangesAsync();
 
+<<<<<<< HEAD
                     NumeroDocumento correlativo = _dbventasContext.NumeroDocumentos.First();
+=======
+                    NumeroDocumento correlativo = _dbventasContext.NumeroDocumentos.FirstOrDefault();
+                    if(correlativo == null)
+                    {
+                        throw new Exception("No existe configuración de numeración en NumeroDocumentos.");
+                    }
+>>>>>>> 87524d8 (Actualizaciones)
 
                     correlativo.UltimoNumero = correlativo.UltimoNumero + 1;
 
                     correlativo.FechaRegistro = DateTime.Now;
 
+<<<<<<< HEAD
                     await _dbventasContext.SaveChangesAsync();
+=======
+                     await _dbventasContext.SaveChangesAsync(); 
+>>>>>>> 87524d8 (Actualizaciones)
 
                     _dbventasContext.NumeroDocumentos.Update(correlativo);
 
@@ -62,6 +97,13 @@ namespace SistemadeVentas.DAL.Repository
                     await _dbventasContext.AddAsync(modelo);
                     await _dbventasContext.SaveChangesAsync();
 
+<<<<<<< HEAD
+=======
+                    ventaGenerada = _dbventasContext.Venta
+                    .Include(v => v.DetalleVenta)
+                    .FirstOrDefault(v => v.IdVenta == modelo.IdVenta);
+
+>>>>>>> 87524d8 (Actualizaciones)
                     ventaGenerada = modelo;
 
                     transaction.Commit();
