@@ -82,7 +82,59 @@
               "RelativeToolTip": "SistemadeVentas.Api\\Controllers\\VentaController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< Updated upstream
               "WhenOpened": "2025-08-25T22:27:02.82Z"
+=======
+              "WhenOpened": "2025-10-29T22:23:43.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251019035058_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "RelativeToolTip": "SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:50:58.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbventasContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "RelativeToolTip": "SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAI0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:19:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.Model\\Categoria.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\Categoria.cs",
+              "RelativeToolTip": "SistemadeVentas.Model\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T02:24:28.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SistemadeVentas.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "RelativeToolTip": "SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T02:21:06.833Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
@@ -106,6 +158,7 @@
               "RelativeToolTip": "SistemadeVentas.DAL\\Migrations\\20250823004054_DbVentasContext2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< Updated upstream
               "WhenOpened": "2025-08-23T00:40:59.359Z"
             },
             {
@@ -132,6 +185,9 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T23:33:36.73Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2025-10-19T01:09:53.592Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
@@ -148,6 +204,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "SistemadeVentas.Utility\\AutoMapperProfile.cs",
@@ -156,6 +213,16 @@
               "ViewState": "AQIAAAkAAAAAAAAAAAD4v3EAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T00:35:28.444Z"
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemadeVentas.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\appsettings.json",
+              "RelativeToolTip": "SistemadeVentas.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T20:59:00.638Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
