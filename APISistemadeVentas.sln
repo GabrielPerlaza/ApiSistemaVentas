@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemadeVentas.DAL", "Sist
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemadeVentas.BLL", "SistemadeVentas.BLL\SistemadeVentas.BLL.csproj", "{2DD3BFED-665C-4C06-8E12-EF0C234978B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemadeVentas.Model", "SistemadeVentas.Model\SistemadeVentas.Model.csproj", "{9C103A6E-47C1-4204-80F3-C1551984B056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemadeVentas.Model", "SistemadeVentas.Model\SistemadeVentas.Model.csproj", "{9C103A6E-47C1-4204-80F3-C1551984B056}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemadeVentas.IOC", "SistemadeVentas.IOC\SistemadeVentas.IOC.csproj", "{0892EB85-E46E-4D56-A99B-1C65A8AF2F5C}"
 EndProject

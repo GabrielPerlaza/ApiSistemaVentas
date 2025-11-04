@@ -16,7 +16,7 @@ namespace SistemadeVentas.DTO
 
         public string? PrecioTexto { get; set; }
 
-        public string? TotalTexto { get; set; }
+        public string? TotalTexto { get; set; } 
 
     }
 }

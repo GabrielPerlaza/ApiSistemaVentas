@@ -13,7 +13,7 @@ public partial class Venta
 
     public decimal? Total { get; set; }
 
-    public DateTime? FechaRegistro { get; set; }
+    public DateTime? FechaRegistro { get; set; } 
 
     public virtual ICollection<DetalleVenta> DetalleVenta { get; } = new List<DetalleVenta>();
 }

@@ -11,7 +11,7 @@ using SistemadeVentas.DTO;
 using SistemadeVentas.Model;
 namespace SistemadeVentas.BLL.Servicios
 {
-    public class DashboardService : IDashBoardService
+    public class DashboardService : IDashBoardService 
     {
         private readonly IGenericRepository<Producto> _productoRepository;
         private readonly IVentaRepository _ventaRepository;
@@ -24,13 +24,8 @@ namespace SistemadeVentas.BLL.Servicios
             _mapper = mapper;
         }
 
-       
-
-<<<<<<< HEAD
         private IQueryable<Venta> RetornarVentas(IQueryable<Venta> tablaVenta, int restarCantidadDias)
-=======
-        private IQueryable<Model.Venta> RetornarVentas(IQueryable<Model.Venta> tablaVenta, int restarCantidadDias)
->>>>>>> 87524d8 (Actualizaciones)
+
         {
             DateTime? ultimaFecha = tablaVenta.OrderByDescending(v => v.FechaRegistro).Select(v => v.FechaRegistro).First();
 
@@ -42,11 +37,8 @@ namespace SistemadeVentas.BLL.Servicios
         private async Task<int> TotalVenta_UltimaSemana()
         {
             int total = 0;
-<<<<<<< HEAD
+
             IQueryable<Venta> _ventaQuery = await _ventaRepository.Consultar();
-=======
-            IQueryable<Model.Venta> _ventaQuery = await _ventaRepository.Consultar();
->>>>>>> 87524d8 (Actualizaciones)
 
             if (_ventaQuery.Count() > 0)
             {
@@ -60,11 +52,9 @@ namespace SistemadeVentas.BLL.Servicios
         private async Task<string> TotalIngresos_UltimaSemana()
         {
             decimal resultado = 0;
-<<<<<<< HEAD
+
             IQueryable<Venta> _ventaquery = await _ventaRepository.Consultar();
-=======
-            IQueryable<Model.Venta> _ventaquery = await _ventaRepository.Consultar();
->>>>>>> 87524d8 (Actualizaciones)
+
             if (_ventaquery.Count() > 0)
             {
                 var tablaVenta = RetornarVentas(_ventaquery, 7);
@@ -87,11 +77,9 @@ namespace SistemadeVentas.BLL.Servicios
         {
             Dictionary<string, int> resultado = new Dictionary<string, int>();
 
-<<<<<<< HEAD
+
             IQueryable<Venta> _queryVenta = await _ventaRepository.Consultar();
-=======
-            IQueryable<Model.Venta> _queryVenta = await _ventaRepository.Consultar();
->>>>>>> 87524d8 (Actualizaciones)
+
 
             if (_queryVenta.Count() > 0)
             {

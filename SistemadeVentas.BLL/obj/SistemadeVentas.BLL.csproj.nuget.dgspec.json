@@ -1,33 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj": {}
+    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj": {
+    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj",
         "projectName": "SistemadeVentas.BLL",
-        "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Perlaza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.BLL\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Gabriel Perlaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj",
-        "projectName": "SistemadeVentas.BLL",
-        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -35,7 +19,6 @@
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 87524d8 (Actualizaciones)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,41 +26,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
           "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 87524d8 (Actualizaciones)
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-<<<<<<< HEAD
-              "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj"
+              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj"
               },
-              "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj"
+              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj"
               },
-              "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
+              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
               },
-              "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj"
-=======
-              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj"
-              },
-              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj"
-              },
-              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
-              },
-              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj"
->>>>>>> 87524d8 (Actualizaciones)
+              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj"
               }
             }
           }
@@ -86,21 +52,16 @@
           "warnAsError": [
             "NU1605"
           ]
-<<<<<<< HEAD
-=======
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
->>>>>>> 87524d8 (Actualizaciones)
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-<<<<<<< HEAD
-=======
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -109,7 +70,6 @@
               "version": "[7.0.1, )"
             }
           },
->>>>>>> 87524d8 (Actualizaciones)
           "imports": [
             "net461",
             "net462",
@@ -126,35 +86,18 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
-        "projectName": "SistemadeVentas.DAL",
-        "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Perlaza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DAL\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Gabriel Perlaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj": {
+    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
         "projectName": "SistemadeVentas.DAL",
-        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,7 +105,6 @@
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 87524d8 (Actualizaciones)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,23 +112,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
           "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 87524d8 (Actualizaciones)
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-<<<<<<< HEAD
-              "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
-=======
-              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
->>>>>>> 87524d8 (Actualizaciones)
+              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
               }
             }
           }
@@ -195,30 +129,38 @@
           "warnAsError": [
             "NU1605"
           ]
-<<<<<<< HEAD
-=======
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
->>>>>>> 87524d8 (Actualizaciones)
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-<<<<<<< HEAD
-=======
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             }
           },
->>>>>>> 87524d8 (Actualizaciones)
           "imports": [
             "net461",
             "net462",
@@ -235,35 +177,18 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj",
-        "projectName": "SistemadeVentas.DTO",
-        "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Perlaza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Gabriel Perlaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
+    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj",
         "projectName": "SistemadeVentas.DTO",
-        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,7 +196,6 @@
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 87524d8 (Actualizaciones)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -279,10 +203,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
           "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 87524d8 (Actualizaciones)
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -295,21 +216,16 @@
           "warnAsError": [
             "NU1605"
           ]
-<<<<<<< HEAD
-=======
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
->>>>>>> 87524d8 (Actualizaciones)
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-<<<<<<< HEAD
-=======
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -318,7 +234,6 @@
               "version": "[7.0.1, )"
             }
           },
->>>>>>> 87524d8 (Actualizaciones)
           "imports": [
             "net461",
             "net462",
@@ -335,35 +250,18 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj",
-        "projectName": "SistemadeVentas.Model",
-        "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Perlaza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Gabriel Perlaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
+    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj",
         "projectName": "SistemadeVentas.Model",
-        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -371,7 +269,6 @@
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 87524d8 (Actualizaciones)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -379,10 +276,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
           "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 87524d8 (Actualizaciones)
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -395,14 +289,11 @@
           "warnAsError": [
             "NU1605"
           ]
-<<<<<<< HEAD
-=======
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
->>>>>>> 87524d8 (Actualizaciones)
         }
       },
       "frameworks": {
@@ -446,35 +337,18 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj",
-        "projectName": "SistemadeVentas.Utility",
-        "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Perlaza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Utility\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Gabriel Perlaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj": {
+    "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj",
         "projectName": "SistemadeVentas.Utility",
-        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -482,7 +356,6 @@
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 87524d8 (Actualizaciones)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -490,29 +363,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
           "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 87524d8 (Actualizaciones)
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-<<<<<<< HEAD
-              "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj"
+              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj"
               },
-              "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Perlaza\\Documents\\Sistema de ventas\\APISistemadeVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
-=======
-              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj"
-              },
-              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
->>>>>>> 87524d8 (Actualizaciones)
+              "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\SistemadeVentas.Model.csproj"
               }
             }
           }
@@ -521,14 +383,11 @@
           "warnAsError": [
             "NU1605"
           ]
-<<<<<<< HEAD
-=======
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
->>>>>>> 87524d8 (Actualizaciones)
         }
       },
       "frameworks": {
@@ -538,15 +397,12 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
-<<<<<<< HEAD
-=======
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.1, )"
->>>>>>> 87524d8 (Actualizaciones)
             }
           },
           "imports": [
@@ -565,11 +421,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
->>>>>>> 87524d8 (Actualizaciones)
         }
       }
     }

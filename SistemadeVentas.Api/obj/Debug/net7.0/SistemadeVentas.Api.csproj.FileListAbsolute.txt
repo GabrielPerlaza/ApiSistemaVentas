@@ -1,176 +1,92 @@
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\appsettings.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.exe
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.deps.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.runtimeconfig.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.csproj.AssemblyReference.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.AssemblyInfoInputs.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.AssemblyInfo.cs
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.SistemadeVentas.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.SistemadeVentas.Api.props
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SistemadeVentas.Api.props
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SistemadeVentas.Api.props
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\scopedcss\bundle\SistemadeVentas.Api.styles.css
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.csproj.CopyComplete
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\refint\SistemadeVentas.Api.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.genruntimeconfig.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\obj\Debug\net7.0\ref\SistemadeVentas.Api.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.BLL.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DAL.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.IOC.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Model.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Utility.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.BLL.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.IOC.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DAL.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Model.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.Api\bin\Debug\net7.0\AutoMapper.dll
-<<<<<<< HEAD
-=======
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\appsettings.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.exe
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.deps.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.runtimeconfig.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\AutoMapper.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.BLL.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DAL.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.IOC.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Model.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Utility.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.BLL.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.IOC.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DAL.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Model.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.csproj.AssemblyReference.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.AssemblyInfoInputs.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.AssemblyInfo.cs
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.SistemadeVentas.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.SistemadeVentas.Api.props
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SistemadeVentas.Api.props
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SistemadeVentas.Api.props
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\scopedcss\bundle\SistemadeVentas.Api.styles.css
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\Sistemad.7BEAEDD2.Up2Date
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\refint\SistemadeVentas.Api.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.genruntimeconfig.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\obj\Debug\net7.0\ref\SistemadeVentas.Api.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Humanizer.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.Api\bin\Debug\net7.0\System.CodeDom.dll
->>>>>>> 87524d8 (Actualizaciones)
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.exe
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.deps.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.runtimeconfig.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Api.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.BLL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DAL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DTO.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.IOC.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Model.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Utility.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.BLL.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.IOC.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.DAL.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Model.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.sourcelink.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.SistemadeVentas.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.SistemadeVentas.Api.props
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SistemadeVentas.Api.props
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SistemadeVentas.Api.props
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\scopedcss\bundle\SistemadeVentas.Api.styles.css
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\Sistemad.7BEAEDD2.Up2Date
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\refint\SistemadeVentas.Api.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\SistemadeVentas.Api.genruntimeconfig.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.Api\obj\Debug\net7.0\ref\SistemadeVentas.Api.dll

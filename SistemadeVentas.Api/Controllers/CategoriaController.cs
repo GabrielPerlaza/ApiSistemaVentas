@@ -14,7 +14,7 @@ namespace SistemadeVentas.Api.Controllers
 
         public CategoriaController(ICategoriaService categoriaService)
         {
-            _categoriaService = categoriaService;
+            _categoriaService = categoriaService; 
         }
 
         [HttpGet]

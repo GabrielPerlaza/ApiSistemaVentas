@@ -1,66 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.dal\\repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|solutionrelative:sistemadeventas.dal\\repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|solutionrelative:sistemadeventas.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1991F039-1372-440D-843B-D5FF1CF92DBA}|SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1991F039-1372-440D-843B-D5FF1CF92DBA}|SistemadeVentas.Utility\\SistemadeVentas.Utility.csproj|solutionrelative:sistemadeventas.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47E4F30-42F0-48DA-A1F6-C1E0C122FD6C}|SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47E4F30-42F0-48DA-A1F6-C1E0C122FD6C}|SistemadeVentas.DTO\\SistemadeVentas.DTO.csproj|solutionrelative:sistemadeventas.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C103A6E-47C1-4204-80F3-C1551984B056}|SistemadeVentas.Model\\SistemadeVentas.Model.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C103A6E-47C1-4204-80F3-C1551984B056}|SistemadeVentas.Model\\SistemadeVentas.Model.csproj|solutionrelative:sistemadeventas.model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|solutionrelative:sistemadeventas.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|solutionrelative:sistemadeventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.dal\\repository\\contratos\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|solutionrelative:sistemadeventas.dal\\repository\\contratos\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.dal\\dbcontext\\dbventascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.dal\\dbcontext\\dbventascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|solutionrelative:sistemadeventas.dal\\dbcontext\\dbventascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|solutionrelative:sistemadeventas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.bll\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|solutionrelative:sistemadeventas.bll\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|solutionrelative:sistemadeventas.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|solutionrelative:sistemadeventas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0892EB85-E46E-4D56-A99B-1C65A8AF2F5C}|SistemadeVentas.IOC\\SistemadeVentas.IOC.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.ioc\\dependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0892EB85-E46E-4D56-A99B-1C65A8AF2F5C}|SistemadeVentas.IOC\\SistemadeVentas.IOC.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.ioc\\dependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0892EB85-E46E-4D56-A99B-1C65A8AF2F5C}|SistemadeVentas.IOC\\SistemadeVentas.IOC.csproj|solutionrelative:sistemadeventas.ioc\\dependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\apisistemaventas-main\\sistemadeventas.dal\\migrations\\20250823004054_dbventascontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|solutionrelative:sistemadeventas.dal\\migrations\\20250823004054_dbventascontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|solutionrelative:sistemadeventas.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|solutionrelative:sistemadeventas.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.bll\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD3BFED-665C-4C06-8E12-EF0C234978B0}|SistemadeVentas.BLL\\SistemadeVentas.BLL.csproj|solutionrelative:sistemadeventas.bll\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.api\\sistemadeventas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|solutionrelative:sistemadeventas.api\\sistemadeventas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D98840-6BDD-4BA3-B607-3641EE02E37E}|SistemadeVentas.Api\\SistemadeVentas.Api.csproj|solutionrelative:sistemadeventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.dal\\sistemadeventas.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|solutionrelative:sistemadeventas.dal\\sistemadeventas.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103A6E-47C1-4204-80F3-C1551984B056}|SistemadeVentas.Model\\SistemadeVentas.Model.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C103A6E-47C1-4204-80F3-C1551984B056}|SistemadeVentas.Model\\SistemadeVentas.Model.csproj|solutionrelative:sistemadeventas.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|c:\\users\\user\\documents\\gabo\\sistema de ventas\\apisistemaventas\\sistemadeventas.dal\\migrations\\20251019035058_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8244F24C-7AD0-454C-9022-FE079E205E9F}|SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj|solutionrelative:sistemadeventas.dal\\migrations\\20251019035058_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,188 +58,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VentaController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.Api\\Controllers\\VentaController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "SistemadeVentas.Api\\Controllers\\VentaController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T22:27:02.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IVentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\Repository\\Contratos\\IVentaRepository.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\Repository\\Contratos\\IVentaRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\Repository\\Contratos\\IVentaRepository.cs",
-              "RelativeToolTip": "SistemadeVentas.DAL\\Repository\\Contratos\\IVentaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:32:28.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250823004054_DbVentasContext2.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\Migrations\\20250823004054_DbVentasContext2.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\Migrations\\20250823004054_DbVentasContext2.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\Migrations\\20250823004054_DbVentasContext2.cs",
-              "RelativeToolTip": "SistemadeVentas.DAL\\Migrations\\20250823004054_DbVentasContext2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T00:40:59.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\Venta.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.Model\\Venta.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Model\\Venta.cs",
-              "RelativeToolTip": "SistemadeVentas.Model\\Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T00:23:51.011Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\Repository\\VentaRepository.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\Repository\\VentaRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\Repository\\VentaRepository.cs",
-              "RelativeToolTip": "SistemadeVentas.DAL\\Repository\\VentaRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAE4AAABGAAAA",
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\Servicios\\VentaService.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.BLL\\Servicios\\VentaService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\Servicios\\VentaService.cs",
+              "RelativeToolTip": "SistemadeVentas.BLL\\Servicios\\VentaService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEEAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T23:33:36.73Z",
+              "WhenOpened": "2025-11-04T04:42:45.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VentaService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\Servicios\\VentaService.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.BLL\\Servicios\\VentaService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\Servicios\\VentaService.cs",
-              "RelativeToolTip": "SistemadeVentas.BLL\\Servicios\\VentaService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAswCEAAAAQAAAA",
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswCcAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:53:22.773Z"
+              "WhenOpened": "2025-10-29T22:29:52.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.Utility\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Utility\\AutoMapperProfile.cs",
-              "RelativeToolTip": "SistemadeVentas.Utility\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAD4v3EAAABQAAAA",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemadeVentas.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:35:28.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VentaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\VentaDTO.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.DTO\\VentaDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DTO\\VentaDTO.cs",
-              "RelativeToolTip": "SistemadeVentas.DTO\\VentaDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T00:30:27.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\Servicios\\ProductoService.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.BLL\\Servicios\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\Servicios\\ProductoService.cs",
-              "RelativeToolTip": "SistemadeVentas.BLL\\Servicios\\ProductoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T01:03:49.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DbventasContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
-              "RelativeToolTip": "SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwvw4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:42:41.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Dependencias.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.IOC\\Dependencias.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.IOC\\Dependencias.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.IOC\\Dependencias.cs",
-              "RelativeToolTip": "SistemadeVentas.IOC\\Dependencias.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBcAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:41:54.272Z"
+              "WhenOpened": "2025-10-29T22:23:43.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
-              "RelativeToolTip": "SistemadeVentas.BLL\\Servicios\\UsuarioService.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAA1wDMAAAARAAAA",
+              "Title": "20251019035058_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "RelativeToolTip": "SistemadeVentas.DAL\\Migrations\\20251019035058_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:45:18.518Z"
+              "WhenOpened": "2025-10-19T03:50:58.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SistemadeVentas.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SistemadeVentas.Api\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T01:42:00.695Z"
+              "DocumentIndex": 1,
+              "Title": "DbventasContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "RelativeToolTip": "SistemadeVentas.DAL\\DbContext\\DbventasContext.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAI0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:19:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.Model\\Categoria.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Model\\Categoria.cs",
+              "RelativeToolTip": "SistemadeVentas.Model\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T02:24:28.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "SistemadeVentas.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "RelativeDocumentMoniker": "SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "RelativeToolTip": "SistemadeVentas.DAL\\SistemadeVentas.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T02:21:06.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SistemadeVentas.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\SistemadeVentas.Api.csproj",
+              "RelativeDocumentMoniker": "SistemadeVentas.Api\\SistemadeVentas.Api.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\SistemadeVentas.Api.csproj",
+              "RelativeToolTip": "SistemadeVentas.Api\\SistemadeVentas.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T02:19:22.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dependencias.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.IOC\\Dependencias.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.IOC\\Dependencias.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.IOC\\Dependencias.cs",
+              "RelativeToolTip": "SistemadeVentas.IOC\\Dependencias.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T01:09:53.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\appsettings.json",
               "RelativeDocumentMoniker": "SistemadeVentas.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\appsettings.json",
               "RelativeToolTip": "SistemadeVentas.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T01:20:56.161Z"
+              "WhenOpened": "2025-10-18T20:59:00.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\Program.cs",
-              "RelativeDocumentMoniker": "SistemadeVentas.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\ApiSistemaVentas-main\\SistemadeVentas.Api\\Program.cs",
-              "RelativeToolTip": "SistemadeVentas.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\Servicios\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.BLL\\Servicios\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.BLL\\Servicios\\CategoriaService.cs",
+              "RelativeToolTip": "SistemadeVentas.BLL\\Servicios\\CategoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:40:33.951Z"
+              "WhenOpened": "2025-10-07T01:02:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SistemadeVentas.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema de Ventas\\ApiSistemaVentas\\SistemadeVentas.Api\\Program.cs",
+              "RelativeToolTip": "SistemadeVentas.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:02:09.738Z"
             }
           ]
         }

@@ -6,8 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-<<<<<<< HEAD
-=======
+
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.1">
       <PrivateAssets>all</PrivateAssets>
@@ -15,5 +14,5 @@
     </PackageReference>
   </ItemGroup>
 
->>>>>>> 87524d8 (Actualizaciones)
+
 </Project>

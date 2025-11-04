@@ -14,7 +14,7 @@ namespace SistemadeVentas.BLL.Servicios
     {
         private readonly IGenericRepository<Usuario> _usuarioRepository;
         private readonly IGenericRepository<MenuRol> _menuRolRepository;
-        private readonly IGenericRepository<Menu> _menuRepository;
+        private readonly IGenericRepository<Menu> _menuRepository; 
         private readonly IMapper _mapper;
 
         public MenuService(IGenericRepository<Usuario> usuarioRepository, IGenericRepository<MenuRol> menuRolRepository, IGenericRepository<Menu> menuRepository, IMapper mapper)

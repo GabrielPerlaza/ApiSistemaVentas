@@ -16,7 +16,7 @@ namespace SistemadeVentas.BLL.Servicios
 
         private readonly IMapper _mapper;
 
-        public RolService(IGenericRepository<Rol> rolRepository, IMapper mapper)
+        public RolService(IGenericRepository<Rol> rolRepository, IMapper mapper) 
         {
             _rolRepository = rolRepository;
             _mapper = mapper;

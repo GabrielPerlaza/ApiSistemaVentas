@@ -15,5 +15,5 @@ namespace SistemadeVentas.DTO
         public string? Icono { get; set; }
 
         public string? Link { get; set; }
-    }
+    } 
 }

@@ -20,9 +20,10 @@ namespace SistemadeVentas.IOC
         public static void InyectarDependencias(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<DbventasContext>(options =>
-            {
-                options.UseSqlServer(configuration.GetConnectionString("cadenaSQL"));
-            }
+                    options.UseNpgsql(
+                        configuration.GetConnectionString("cadenaSQL"),
+                        b => b.MigrationsAssembly("SistemadeVentas.DAL")
+                    )
             );
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddAutoMapper(typeof(AutoMapperProfile));
@@ -33,7 +34,7 @@ namespace SistemadeVentas.IOC
             services.AddScoped<IProductoService, ProductoService>();
             services.AddScoped<IVentaService, VentaService>();
             services.AddScoped<IDashBoardService, DashboardService>();
-            services.AddScoped<IMenuService, MenuService>();
+            services.AddScoped<IMenuService, MenuService>(); 
 
 
         }

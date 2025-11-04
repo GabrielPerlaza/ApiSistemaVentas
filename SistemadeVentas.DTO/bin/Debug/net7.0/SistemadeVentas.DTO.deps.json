@@ -7,11 +7,6 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "SistemadeVentas.DTO/1.0.0": {
-<<<<<<< HEAD
-        "runtime": {
-          "SistemadeVentas.DTO.dll": {}
-        }
-=======
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "7.0.1"
         },
@@ -211,7 +206,6 @@
         "dependencies": {
           "System.Text.Encodings.Web": "7.0.0"
         }
->>>>>>> 87524d8 (Actualizaciones)
       }
     }
   },
@@ -220,8 +214,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-<<<<<<< HEAD
-=======
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",
@@ -362,7 +354,6 @@
       "sha512": "sha512-DaGSsVqKsn/ia6RG8frjwmJonfos0srquhw09TlT8KRw5I43E+4gs+/bZj4K0vShJ5H9imCuXupb4RmS+dBy3w==",
       "path": "system.text.json/7.0.0",
       "hashPath": "system.text.json.7.0.0.nupkg.sha512"
->>>>>>> 87524d8 (Actualizaciones)
     }
   }
 }

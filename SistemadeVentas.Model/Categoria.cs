@@ -9,7 +9,7 @@ public partial class Categoria
 
     public string? Nombre { get; set; }
 
-    public bool? EsActivo { get; set; }
+    public bool? EsActivo { get; set; } = true;
 
     public DateTime? FechaRegistro { get; set; }
 

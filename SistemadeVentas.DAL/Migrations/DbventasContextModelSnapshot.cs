@@ -2,8 +2,8 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using SistemadeVentas.DAL;
 
 #nullable disable
@@ -17,36 +17,36 @@ namespace SistemadeVentas.DAL.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.1")
-                .HasAnnotation("Relational:MaxIdentifierLength", 128);
+                .HasAnnotation("ProductVersion", "7.0.11")
+                .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
-            SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+            NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
             modelBuilder.Entity("SistemadeVentas.Model.Categoria", b =>
                 {
                     b.Property<int>("IdCategoria")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idCategoria");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdCategoria"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdCategoria"));
 
                     b.Property<bool?>("EsActivo")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("bit")
+                        .HasColumnType("boolean")
                         .HasColumnName("esActivo")
-                        .HasDefaultValueSql("((1))");
+                        .HasDefaultValueSql("TRUE");
 
                     b.Property<DateTime?>("FechaRegistro")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime")
+                        .HasColumnType("timestamp")
                         .HasColumnName("fechaRegistro")
-                        .HasDefaultValueSql("(getdate())");
+                        .HasDefaultValueSql("NOW()");
 
                     b.Property<string>("Nombre")
                         .HasMaxLength(50)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(50)")
+                        .HasColumnType("character varying(50)")
                         .HasColumnName("nombre");
 
                     b.HasKey("IdCategoria")
@@ -59,21 +59,21 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdDetalleVenta")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idDetalleVenta");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdDetalleVenta"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdDetalleVenta"));
 
                     b.Property<int?>("Cantidad")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("cantidad");
 
                     b.Property<int?>("IdProducto")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idProducto");
 
                     b.Property<int?>("IdVenta")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idVenta");
 
                     b.Property<decimal?>("Precio")
@@ -98,27 +98,27 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdMenu")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idMenu");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdMenu"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdMenu"));
 
                     b.Property<string>("Icono")
                         .HasMaxLength(50)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(50)")
+                        .HasColumnType("character varying(50)")
                         .HasColumnName("icono");
 
                     b.Property<string>("Link")
                         .HasMaxLength(50)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(50)")
+                        .HasColumnType("character varying(50)")
                         .HasColumnName("link");
 
                     b.Property<string>("Nombre")
                         .HasMaxLength(50)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(50)")
+                        .HasColumnType("character varying(50)")
                         .HasColumnName("nombre");
 
                     b.HasKey("IdMenu")
@@ -131,17 +131,17 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdMenuRol")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idMenuRol");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdMenuRol"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdMenuRol"));
 
                     b.Property<int?>("IdMenu")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idMenu");
 
                     b.Property<int?>("IdRol")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idRol");
 
                     b.HasKey("IdMenuRol")
@@ -158,19 +158,19 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdNumeroDocumento")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idNumeroDocumento");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdNumeroDocumento"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdNumeroDocumento"));
 
                     b.Property<DateTime?>("FechaRegistro")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime")
+                        .HasColumnType("timestamp")
                         .HasColumnName("fechaRegistro")
-                        .HasDefaultValueSql("(getdate())");
+                        .HasDefaultValueSql("NOW()");
 
                     b.Property<int>("UltimoNumero")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("ultimo_Numero");
 
                     b.HasKey("IdNumeroDocumento")
@@ -183,31 +183,31 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdProducto")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idProducto");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdProducto"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdProducto"));
 
                     b.Property<bool?>("EsActivo")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("bit")
+                        .HasColumnType("boolean")
                         .HasColumnName("esActivo")
-                        .HasDefaultValueSql("((1))");
+                        .HasDefaultValueSql("TRUE");
 
                     b.Property<DateTime?>("FechaRegistro")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime")
+                        .HasColumnType("timestamp")
                         .HasColumnName("fechaRegistro")
-                        .HasDefaultValueSql("(getdate())");
+                        .HasDefaultValueSql("NOW()");
 
                     b.Property<int?>("IdCategoria")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idCategoria");
 
                     b.Property<string>("Nombre")
                         .HasMaxLength(100)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(100)")
+                        .HasColumnType("character varying(100)")
                         .HasColumnName("nombre");
 
                     b.Property<decimal?>("Precio")
@@ -215,7 +215,7 @@ namespace SistemadeVentas.DAL.Migrations
                         .HasColumnName("precio");
 
                     b.Property<int?>("Stock")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("stock");
 
                     b.HasKey("IdProducto")
@@ -230,21 +230,21 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdRol")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idRol");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdRol"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdRol"));
 
                     b.Property<DateTime?>("FechaRegistro")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime")
+                        .HasColumnType("timestamp")
                         .HasColumnName("fechaRegistro")
-                        .HasDefaultValueSql("(getdate())");
+                        .HasDefaultValueSql("NOW()");
 
                     b.Property<string>("Nombre")
                         .HasMaxLength(50)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(50)")
+                        .HasColumnType("character varying(50)")
                         .HasColumnName("nombre");
 
                     b.HasKey("IdRol")
@@ -257,43 +257,43 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdUsuario")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idUsuario");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdUsuario"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdUsuario"));
 
                     b.Property<string>("Clave")
                         .HasMaxLength(40)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(40)")
+                        .HasColumnType("character varying(40)")
                         .HasColumnName("clave");
 
                     b.Property<string>("Correo")
                         .HasMaxLength(40)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(40)")
+                        .HasColumnType("character varying(40)")
                         .HasColumnName("correo");
 
                     b.Property<bool?>("EsActivo")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("bit")
+                        .HasColumnType("boolean")
                         .HasColumnName("esActivo")
-                        .HasDefaultValueSql("((1))");
+                        .HasDefaultValueSql("TRUE");
 
                     b.Property<DateTime?>("FechaRegistro")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime")
+                        .HasColumnType("timestamp")
                         .HasColumnName("fechaRegistro")
-                        .HasDefaultValueSql("(getdate())");
+                        .HasDefaultValueSql("NOW()");
 
                     b.Property<int?>("IdRol")
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idRol");
 
                     b.Property<string>("NombreCompleto")
                         .HasMaxLength(100)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(100)")
+                        .HasColumnType("character varying(100)")
                         .HasColumnName("nombreCompleto");
 
                     b.HasKey("IdUsuario")
@@ -308,27 +308,27 @@ namespace SistemadeVentas.DAL.Migrations
                 {
                     b.Property<int>("IdVenta")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
+                        .HasColumnType("integer")
                         .HasColumnName("idVenta");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdVenta"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdVenta"));
 
                     b.Property<DateTime?>("FechaRegistro")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime")
+                        .HasColumnType("timestamp")
                         .HasColumnName("fechaRegistro")
-                        .HasDefaultValueSql("(getdate())");
+                        .HasDefaultValueSql("NOW()");
 
                     b.Property<string>("NumeroDocumento")
                         .HasMaxLength(40)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(40)")
+                        .HasColumnType("character varying(40)")
                         .HasColumnName("numeroDocumento");
 
                     b.Property<string>("TipoPago")
                         .HasMaxLength(50)
                         .IsUnicode(false)
-                        .HasColumnType("varchar(50)")
+                        .HasColumnType("character varying(50)")
                         .HasColumnName("tipoPago");
 
                     b.Property<decimal?>("Total")

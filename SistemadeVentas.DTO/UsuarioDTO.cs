@@ -18,7 +18,7 @@ namespace SistemadeVentas.DTO
         
         public string? RolDescripcion { get; set; }
 
-        public string? Clave { get; set; }
+        public string? Clave { get; set; } 
 
         public int? EsActivo { get; set; }
     }

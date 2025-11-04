@@ -14,7 +14,7 @@ namespace SistemadeVentas.Api.Controllers
 
         public RolController(IRolService rolServicio)
         {
-            _rolServicio = rolServicio;
+            _rolServicio = rolServicio; 
         }
 
         [HttpGet]

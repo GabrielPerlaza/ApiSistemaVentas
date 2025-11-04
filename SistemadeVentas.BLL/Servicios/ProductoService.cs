@@ -14,7 +14,7 @@ namespace SistemadeVentas.BLL.Servicios
     public class ProductoService : IProductoService
     {
         private readonly IMapper _mapper;
-        private readonly IGenericRepository<Producto> _productoRepository;
+        private readonly IGenericRepository<Producto> _productoRepository; 
 
         public ProductoService(IMapper mapper, IGenericRepository<Producto> productoRepository)
         {
@@ -97,22 +97,18 @@ namespace SistemadeVentas.BLL.Servicios
         {
             try
             {
-<<<<<<< HEAD
-                var productoEncontrado = _productoRepository.Obtener(
-=======
+
                 var productoEncontrado = await _productoRepository.Obtener(
->>>>>>> 87524d8 (Actualizaciones)
+
                     p => p.IdProducto == id
                     );
                 if(productoEncontrado == null)
                 {
                     throw new TaskCanceledException("No se logro encontrar el producto");
                 }
-<<<<<<< HEAD
+
                 bool respuesta = await _productoRepository.Eliminar(_mapper.Map<Producto>(productoEncontrado));
-=======
-                bool respuesta = await _productoRepository.Eliminar(productoEncontrado);
->>>>>>> 87524d8 (Actualizaciones)
+
 
                 if (!respuesta)
                 {

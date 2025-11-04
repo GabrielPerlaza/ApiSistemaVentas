@@ -1,12 +1,13 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
+using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
 namespace SistemadeVentas.DAL.Migrations
 {
     /// <inheritdoc />
-    public partial class DbVentasContext2 : Migration
+    public partial class Inicial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -15,11 +16,11 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "Categoria",
                 columns: table => new
                 {
-                    idCategoria = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    nombre = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: true),
-                    esActivo = table.Column<bool>(type: "bit", nullable: true, defaultValueSql: "((1))"),
-                    fechaRegistro = table.Column<DateTime>(type: "datetime", nullable: true, defaultValueSql: "(getdate())")
+                    idCategoria = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    nombre = table.Column<string>(type: "character varying(50)", unicode: false, maxLength: 50, nullable: true),
+                    esActivo = table.Column<bool>(type: "boolean", nullable: true, defaultValueSql: "TRUE"),
+                    fechaRegistro = table.Column<DateTime>(type: "timestamp", nullable: true, defaultValueSql: "NOW()")
                 },
                 constraints: table =>
                 {
@@ -30,11 +31,11 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "Menu",
                 columns: table => new
                 {
-                    idMenu = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    nombre = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: true),
-                    icono = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: true),
-                    link = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: true)
+                    idMenu = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    nombre = table.Column<string>(type: "character varying(50)", unicode: false, maxLength: 50, nullable: true),
+                    icono = table.Column<string>(type: "character varying(50)", unicode: false, maxLength: 50, nullable: true),
+                    link = table.Column<string>(type: "character varying(50)", unicode: false, maxLength: 50, nullable: true)
                 },
                 constraints: table =>
                 {
@@ -45,10 +46,10 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "NumeroDocumento",
                 columns: table => new
                 {
-                    idNumeroDocumento = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    ultimoNumero = table.Column<int>(name: "ultimo_Numero", type: "int", nullable: false),
-                    fechaRegistro = table.Column<DateTime>(type: "datetime", nullable: true, defaultValueSql: "(getdate())")
+                    idNumeroDocumento = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    ultimoNumero = table.Column<int>(name: "ultimo_Numero", type: "integer", nullable: false),
+                    fechaRegistro = table.Column<DateTime>(type: "timestamp", nullable: true, defaultValueSql: "NOW()")
                 },
                 constraints: table =>
                 {
@@ -59,10 +60,10 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "Rol",
                 columns: table => new
                 {
-                    idRol = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    nombre = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: true),
-                    fechaRegistro = table.Column<DateTime>(type: "datetime", nullable: true, defaultValueSql: "(getdate())")
+                    idRol = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    nombre = table.Column<string>(type: "character varying(50)", unicode: false, maxLength: 50, nullable: true),
+                    fechaRegistro = table.Column<DateTime>(type: "timestamp", nullable: true, defaultValueSql: "NOW()")
                 },
                 constraints: table =>
                 {
@@ -73,12 +74,12 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "Venta",
                 columns: table => new
                 {
-                    idVenta = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    numeroDocumento = table.Column<string>(type: "varchar(40)", unicode: false, maxLength: 40, nullable: true),
-                    tipoPago = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: true),
-                    total = table.Column<decimal>(type: "decimal(10,2)", nullable: true),
-                    fechaRegistro = table.Column<DateTime>(type: "datetime", nullable: true, defaultValueSql: "(getdate())")
+                    idVenta = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    numeroDocumento = table.Column<string>(type: "character varying(40)", unicode: false, maxLength: 40, nullable: true),
+                    tipoPago = table.Column<string>(type: "character varying(50)", unicode: false, maxLength: 50, nullable: true),
+                    total = table.Column<decimal>(type: "numeric(10,2)", nullable: true),
+                    fechaRegistro = table.Column<DateTime>(type: "timestamp", nullable: true, defaultValueSql: "NOW()")
                 },
                 constraints: table =>
                 {
@@ -89,14 +90,14 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "Producto",
                 columns: table => new
                 {
-                    idProducto = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    nombre = table.Column<string>(type: "varchar(100)", unicode: false, maxLength: 100, nullable: true),
-                    idCategoria = table.Column<int>(type: "int", nullable: true),
-                    stock = table.Column<int>(type: "int", nullable: true),
-                    precio = table.Column<decimal>(type: "decimal(10,2)", nullable: true),
-                    esActivo = table.Column<bool>(type: "bit", nullable: true, defaultValueSql: "((1))"),
-                    fechaRegistro = table.Column<DateTime>(type: "datetime", nullable: true, defaultValueSql: "(getdate())")
+                    idProducto = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    nombre = table.Column<string>(type: "character varying(100)", unicode: false, maxLength: 100, nullable: true),
+                    idCategoria = table.Column<int>(type: "integer", nullable: true),
+                    stock = table.Column<int>(type: "integer", nullable: true),
+                    precio = table.Column<decimal>(type: "numeric(10,2)", nullable: true),
+                    esActivo = table.Column<bool>(type: "boolean", nullable: true, defaultValueSql: "TRUE"),
+                    fechaRegistro = table.Column<DateTime>(type: "timestamp", nullable: true, defaultValueSql: "NOW()")
                 },
                 constraints: table =>
                 {
@@ -112,10 +113,10 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "MenuRol",
                 columns: table => new
                 {
-                    idMenuRol = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    idMenu = table.Column<int>(type: "int", nullable: true),
-                    idRol = table.Column<int>(type: "int", nullable: true)
+                    idMenuRol = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    idMenu = table.Column<int>(type: "integer", nullable: true),
+                    idRol = table.Column<int>(type: "integer", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -136,14 +137,14 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "Usuario",
                 columns: table => new
                 {
-                    idUsuario = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    nombreCompleto = table.Column<string>(type: "varchar(100)", unicode: false, maxLength: 100, nullable: true),
-                    correo = table.Column<string>(type: "varchar(40)", unicode: false, maxLength: 40, nullable: true),
-                    idRol = table.Column<int>(type: "int", nullable: true),
-                    clave = table.Column<string>(type: "varchar(40)", unicode: false, maxLength: 40, nullable: true),
-                    esActivo = table.Column<bool>(type: "bit", nullable: true, defaultValueSql: "((1))"),
-                    fechaRegistro = table.Column<DateTime>(type: "datetime", nullable: true, defaultValueSql: "(getdate())")
+                    idUsuario = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    nombreCompleto = table.Column<string>(type: "character varying(100)", unicode: false, maxLength: 100, nullable: true),
+                    correo = table.Column<string>(type: "character varying(40)", unicode: false, maxLength: 40, nullable: true),
+                    idRol = table.Column<int>(type: "integer", nullable: true),
+                    clave = table.Column<string>(type: "character varying(40)", unicode: false, maxLength: 40, nullable: true),
+                    esActivo = table.Column<bool>(type: "boolean", nullable: true, defaultValueSql: "TRUE"),
+                    fechaRegistro = table.Column<DateTime>(type: "timestamp", nullable: true, defaultValueSql: "NOW()")
                 },
                 constraints: table =>
                 {
@@ -159,13 +160,13 @@ namespace SistemadeVentas.DAL.Migrations
                 name: "DetalleVenta",
                 columns: table => new
                 {
-                    idDetalleVenta = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    idVenta = table.Column<int>(type: "int", nullable: true),
-                    idProducto = table.Column<int>(type: "int", nullable: true),
-                    cantidad = table.Column<int>(type: "int", nullable: true),
-                    precio = table.Column<decimal>(type: "decimal(10,2)", nullable: true),
-                    total = table.Column<decimal>(type: "decimal(10,2)", nullable: true)
+                    idDetalleVenta = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    idVenta = table.Column<int>(type: "integer", nullable: true),
+                    idProducto = table.Column<int>(type: "integer", nullable: true),
+                    cantidad = table.Column<int>(type: "integer", nullable: true),
+                    precio = table.Column<decimal>(type: "numeric(10,2)", nullable: true),
+                    total = table.Column<decimal>(type: "numeric(10,2)", nullable: true)
                 },
                 constraints: table =>
                 {

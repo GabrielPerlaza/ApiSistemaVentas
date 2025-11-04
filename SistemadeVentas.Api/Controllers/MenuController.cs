@@ -15,7 +15,7 @@ namespace SistemadeVentas.Api.Controllers
 
         public MenuController(IMenuService menuService)
         {
-            _menuService = menuService;
+            _menuService = menuService; 
         }
 
 

@@ -1,51 +1,26 @@
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.deps.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.AssemblyInfoInputs.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.AssemblyInfo.cs
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\refint\SistemadeVentas.IOC.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\ref\SistemadeVentas.IOC.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.BLL.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DAL.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Model.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Utility.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.BLL.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DAL.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Model.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.csproj.AssemblyReference.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.csproj.CopyComplete
-<<<<<<< HEAD
-=======
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.deps.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.BLL.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DAL.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Model.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Utility.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.BLL.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DAL.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Model.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.csproj.AssemblyReference.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.AssemblyInfoInputs.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.AssemblyInfo.cs
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\Sistemad.F565DE7C.Up2Date
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\refint\SistemadeVentas.IOC.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\ref\SistemadeVentas.IOC.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.runtimeconfig.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.genruntimeconfig.cache
->>>>>>> 87524d8 (Actualizaciones)
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.deps.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.runtimeconfig.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.IOC.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.BLL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DAL.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DTO.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Model.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Utility.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.BLL.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DAL.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Utility.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\bin\Debug\net7.0\SistemadeVentas.Model.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.sourcelink.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\Sistemad.F565DE7C.Up2Date
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\refint\SistemadeVentas.IOC.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\SistemadeVentas.IOC.genruntimeconfig.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.IOC\obj\Debug\net7.0\ref\SistemadeVentas.IOC.dll

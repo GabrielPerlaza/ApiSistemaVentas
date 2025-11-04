@@ -9,5 +9,5 @@ public partial class NumeroDocumento
 
     public int UltimoNumero { get; set; }
 
-    public DateTime? FechaRegistro { get; set; }
+    public DateTime? FechaRegistro { get; set; } 
 }

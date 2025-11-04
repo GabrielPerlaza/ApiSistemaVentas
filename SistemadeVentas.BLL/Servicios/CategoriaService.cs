@@ -10,7 +10,7 @@ using SistemadeVentas.DTO;
 using SistemadeVentas.Model;
 namespace SistemadeVentas.BLL.Servicios
 {
-    public class CategoriaService : ICategoriaService
+    public class CategoriaService : ICategoriaService 
     {
         private readonly IMapper _mapper;
         private readonly IGenericRepository<Categoria> _categoriaRepository;

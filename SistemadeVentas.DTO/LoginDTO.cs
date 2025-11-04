@@ -10,6 +10,6 @@ namespace SistemadeVentas.DTO
     {
         public string Correo {  get; set; }
 
-        public string Clave { get; set; }
+        public string Clave { get; set; } 
     }
 }

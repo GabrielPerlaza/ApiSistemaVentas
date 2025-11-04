@@ -11,7 +11,7 @@ public partial class Menu
 
     public string? Icono { get; set; }
 
-    public string? Link { get; set; }
+    public string? Link { get; set; } 
 
     public virtual ICollection<MenuRol> MenuRols { get; } = new List<MenuRol>();
 }

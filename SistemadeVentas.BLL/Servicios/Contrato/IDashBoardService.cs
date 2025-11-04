@@ -9,5 +9,5 @@ namespace SistemadeVentas.BLL.Servicios.Contrato
     public interface IDashBoardService
     {
         Task<DashboardDTO> Resumen();
-    }
+    } 
 }

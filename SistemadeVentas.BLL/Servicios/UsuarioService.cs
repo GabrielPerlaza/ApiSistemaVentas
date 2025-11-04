@@ -14,7 +14,7 @@ namespace SistemadeVentas.BLL.Servicios
     public  class UsuarioService : IUsuarioService
     {
         private readonly IGenericRepository<Usuario> _usuarioRepository;
-        private readonly IMapper _mapper;
+        private readonly IMapper _mapper; 
 
         public UsuarioService(IGenericRepository<Usuario> usuarioRepository, IMapper mapper)
         {
@@ -37,7 +37,7 @@ namespace SistemadeVentas.BLL.Servicios
             try
             {
                 var queryUsuario = await _usuarioRepository.Consultar(
-                    u => u.Correo == correo &&
+                    u => u.Correo.ToLower() == correo.ToLower() &&
                     u.Clave == clave
                     );
                  if(queryUsuario.FirstOrDefault() == null)

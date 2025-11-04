@@ -14,6 +14,6 @@ namespace SistemadeVentas.DTO
 
         public int TotalProductos { get; set; }
 
-        public List<VentaSemanaDTO> Ventas_UltimaSemana { get; set; }
+        public List<VentaSemanaDTO> Ventas_UltimaSemana { get; set; } 
     }
 }

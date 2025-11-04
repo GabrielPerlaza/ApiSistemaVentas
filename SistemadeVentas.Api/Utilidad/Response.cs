@@ -6,6 +6,6 @@
 
         public T value { get; set; }
 
-        public string msg { get; set; }
+        public string msg { get; set; } 
     }
 }

@@ -14,7 +14,7 @@ namespace SistemadeVentas.Api.Controllers
 
         public DashboardController(IDashBoardService dashboardService)
         {
-            _dashboardService = dashboardService;
+            _dashboardService = dashboardService; 
         }
 
         [HttpGet]

@@ -14,7 +14,7 @@ namespace SistemadeVentas.Api.Controllers
 
         public ProductoController(IProductoService productoService)
         {
-            _productoService = productoService;
+            _productoService = productoService; 
         }
         [HttpGet]
         [Route("Lista")]

@@ -16,7 +16,7 @@ namespace SistemadeVentas.DAL.Repository
 
         public GenericRepository(DbventasContext dbventasContext)
         {
-            _dbventasContext = dbventasContext;
+            _dbventasContext = dbventasContext; 
         }
 
         public async Task<Tmodelo> Obtener(Expression<Func<Tmodelo, bool>> Filtro)

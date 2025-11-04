@@ -14,7 +14,7 @@ namespace SistemadeVentas.Api.Controllers
 
         public VentaController(IVentaService ventaService)
         {
-            _ventaService = ventaService;
+            _ventaService = ventaService; 
         }
 
         [HttpPost]

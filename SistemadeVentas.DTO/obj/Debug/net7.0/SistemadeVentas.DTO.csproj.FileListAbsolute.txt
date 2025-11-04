@@ -1,27 +1,14 @@
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.deps.json
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.AssemblyInfoInputs.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.AssemblyInfo.cs
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\refint\SistemadeVentas.DTO.dll
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\Gabriel Perlaza\Documents\Sistema de ventas\APISistemadeVentas\SistemadeVentas.DTO\obj\Debug\net7.0\ref\SistemadeVentas.DTO.dll
-<<<<<<< HEAD
-=======
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.deps.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.AssemblyInfoInputs.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.AssemblyInfo.cs
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\refint\SistemadeVentas.DTO.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.pdb
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\ref\SistemadeVentas.DTO.dll
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.runtimeconfig.json
-C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\ApiSistemaVentas-main\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.genruntimeconfig.cache
->>>>>>> 87524d8 (Actualizaciones)
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.deps.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.runtimeconfig.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\bin\Debug\net7.0\SistemadeVentas.DTO.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.sourcelink.json
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\refint\SistemadeVentas.DTO.dll
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.pdb
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\SistemadeVentas.DTO.genruntimeconfig.cache
+C:\Users\User\Documents\Gabo\Sistema de Ventas\ApiSistemaVentas\SistemadeVentas.DTO\obj\Debug\net7.0\ref\SistemadeVentas.DTO.dll
